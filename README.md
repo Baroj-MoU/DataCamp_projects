@@ -1,3 +1,3 @@
 # DataCamp_projects
 
-These are my solutions ot the DataCamp projects
+These are my solutions to the DataCamp projects
